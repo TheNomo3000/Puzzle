@@ -1,0 +1,22 @@
+.boxes{
+    background-color: grey;
+    color:while;
+}
+
+.boxes ul li:nth-child(2){
+    background-color: white;
+}
+
+#box {
+    background-color: gold;
+    padding:20px;
+    margin:10px;
+    border:1px solid black;
+}
+
+/*
+table td:hover{
+    background-color: black;
+    color:white;
+}
+*/
