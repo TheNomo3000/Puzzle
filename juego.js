@@ -1,6 +1,6 @@
 var Matriz = [3];
 var movimientos = 0;
-var audio = new Audio('Click_pop.wav');
+var audio = new Audio('assets/Click_pop.wav');
 window.onload = function(){
 	cronometro();
 	generarTablero();
